@@ -1,0 +1,14 @@
+User-agent:*
+Disallow: /account
+Disallow: /check-out
+Disallow: /revenue
+Disallow: /book/
+Disallow: /category/
+Disallow: /author/
+Disallow: /nxb/
+Disallow: /user-manager/
+Disallow: /history/
+Allow: /
+
+
+Sitemap: https://webbansachonline.netlify.app/sitemap.xml
